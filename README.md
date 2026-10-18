@@ -41,3 +41,11 @@ Built with Base44 (an AI app builder) from a written specification, then tested 
 
 - The sample company, client, address and photos are made-up demo data.
 - Inspection photos are stored with public links so they render in printed reports.
+
+
+## Android app
+
+An Android version of SiteCheck wraps the live web app in a native shell. It supports camera and gallery photo upload, printing the report to PDF, an offline screen and the back button.
+
+- Android project: https://github.com/alab2296/sitecheck-android
+- Download the APK: https://github.com/alab2296/sitecheck-android/releases/tag/v1.0
